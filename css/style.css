@@ -168,10 +168,11 @@ body{
         top: 0;
     }
     .box-main-titular{
+        bottom: 110px;
         font-size: 0;
         position: absolute;
         width: 100%;
-        bottom: 80px;
+        
     }
         .box-main-titular img{
             display: block;
@@ -188,10 +189,10 @@ body{
         }
             .bajada h1{
                 font: 30px/1.2 "GuardianTextEgypt-Black";
-                margin: 0;
-                max-width: 265px;
+                margin: 0 auto;
+                max-width: 380px;
                 padding: 0;
-                text-align: left;
+                text-align: center;
             }
                 .bajada h1 span{
                     font-family: "GuardianTextEgypt-Bold";
@@ -200,7 +201,7 @@ body{
         .bajada{
             color: #525252;
             font-size: 20px;
-            margin: 0 auto;  
+            margin: 50px auto;  
             max-width: 900px;
             vertical-align: top;                      
         }
@@ -212,8 +213,8 @@ body{
         .gorrito{
             background: #e6c837;
             height: 10px;
-            margin-bottom: 12px;
             width: 80px;
+            margin: 0 auto 10px;
         }  
 
 .box-portada{
@@ -247,7 +248,7 @@ body{
         width: 980px;
     }
     h1{
-        color: #000;
+        color: #fff;
         font: 3.1em/1.2 "GuardianEgyp-Light";
         margin: 20px auto 0;
         padding: 20px 0 0;
@@ -467,7 +468,7 @@ body{
     }
 
     .box-cabecera .full-height-minus-header {
-        background: url('../img/bg-portada-movil.jpg') no-repeat center top;
+        background: url('../img/bg-portada-movil-2.jpg') no-repeat center top;
         background-size: cover;
     }
 
@@ -591,7 +592,7 @@ p.bajada-movil{
 }
 
 .full-height-minus-header {
-    background: url('../img/bg-portada.jpg') no-repeat center bottom;
+    background: url('../img/bg-portada-2.jpg') no-repeat center bottom;
     background-size: cover;
     height: calc(95vh - 95px);
     position: relative;
@@ -832,10 +833,9 @@ img.flecha{
     bottom: 50px;
     cursor: pointer;
     left: 50%;
-    margin-left: -25px;
     max-width: 75px;
     position: absolute;
-    
+    transform: translate(-50%, 50%);    
 }
 p.creditos{
     text-align: center;
