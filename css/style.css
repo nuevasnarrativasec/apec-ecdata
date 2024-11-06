@@ -193,6 +193,7 @@ body{
                 max-width: 380px;
                 padding: 0;
                 text-align: center;
+                text-shadow: 0px 0px 2px #000e33;
             }
                 .bajada h1 span{
                     font-family: "GuardianTextEgypt-Bold";
