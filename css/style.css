@@ -64,8 +64,7 @@ body{
             text-align: right;
         }
             .ctn-header-comercio a{
-                display: inline-block;                
-                text-indent: -9999px;
+                display: inline-block;   
             }
                 a.logo-comercio{
                     background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/somos-35-anos-mejores-portadas-ecpm/img/logo-comercio.png?v2) no-repeat 0 0;
@@ -469,7 +468,7 @@ body{
     }
 
     .box-cabecera .full-height-minus-header {
-        background: url('../img/bg-portada-movil-2.jpg') no-repeat center top;
+        background: url('https://nuevasnarrativasec.github.io/apec-ecdata/img/bg-portada-movil-2.jpg') no-repeat center top;
         background-size: cover;
     }
 
@@ -593,7 +592,7 @@ p.bajada-movil{
 }
 
 .full-height-minus-header {
-    background: url('../img/bg-portada-2.jpg') no-repeat center bottom;
+    background: url('https://nuevasnarrativasec.github.io/apec-ecdata/img/bg-portada-2.jpg') no-repeat center bottom;
     background-size: cover;
     height: calc(95vh - 95px);
     position: relative;
