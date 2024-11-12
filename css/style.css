@@ -435,7 +435,7 @@ body{
     }
     .box-main-titular{
         bottom: 30%;
-        width: 85%;
+        width: 100%;
     }
         .titular h1{
             font-size: 45px;
