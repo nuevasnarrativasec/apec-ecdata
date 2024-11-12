@@ -468,7 +468,7 @@ body{
     }
 
     .box-cabecera .full-height-minus-header {
-        background: url('https://nuevasnarrativasec.github.io/apec-ecdata/img/bg-portada-movil-2.jpg') no-repeat center top;
+        background: url('https://nuevasnarrativasec.github.io/apec-ecdata/img/bg-portada-movil-3.jpg') no-repeat center top;
         background-size: cover;
     }
 
@@ -592,7 +592,7 @@ p.bajada-movil{
 }
 
 .full-height-minus-header {
-    background: url('https://nuevasnarrativasec.github.io/apec-ecdata/img/bg-portada-2.jpg') no-repeat center bottom;
+    background: url('https://nuevasnarrativasec.github.io/apec-ecdata/img/bg-portada-3.jpg') no-repeat center bottom;
     background-size: cover;
     height: calc(95vh - 95px);
     position: relative;
